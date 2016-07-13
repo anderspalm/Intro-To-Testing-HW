@@ -1,0 +1,27 @@
+Pokemon App
+
+(Condition) The user can login
+
+As a user, I can login with username and password.
+As a user, I can be prevented from moving forward if the EditText fields are blank.
+As a logged in user, I can have symbols and other data types inside my username and password.
+As a logged in user, I am kept logged in on the device.
+As a logged in user, I will be taken to the loading screen followed by the map of where I am.
+
+(Condition) The user can catch pokemon
+
+As a logged in user, I can catch a pokemon if I have pokeballs
+As a logged in user, I can catch pokemon if I have internet connection
+As a logged in user, I can use items to help catch pokemon
+If I cleck on the pokeball, I can open the settings menu
+If I interact with the settings in this menu I can go to a sectond menu with further settings
+
+(Condition) The user can interact with environment
+
+As a logged in user & gps linked, user can see pokemon and open pokemon, shop, item and pokedex
+As a logged in user & gps linked, user can see gyms and open
+As a logged in user & gps linked, user can see pokestops and open
+As a logged in user & gps linked, user can see pokemon from other people's lures
+As a logged in user & gps linked, user can see pokemon from your own lure
+As a logged in user & gps linked, user can see your inscence
+
